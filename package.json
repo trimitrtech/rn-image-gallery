@@ -1,0 +1,29 @@
+{
+  "name": "rn-image-gallery",
+  "version": "1.0.0",
+  "description": "Uisng this create your image gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trimitrtechnologies/rn-image-gallery.git"
+  },
+  "keywords": [
+    "image-gallery",
+    "gallery",
+    "rn-gallery"
+  ],
+  "author": "Trimitr Technologies Pvt. Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trimitrtechnologies/rn-image-gallery/issues"
+  },
+  "homepage": "https://github.com/trimitrtechnologies/rn-image-gallery#readme",
+  "devDependencies": {
+    "@babel/preset-flow": "^7.8.3",
+    "react": "^16.12.0",
+    "react-native": "^0.61.5"
+  }
+}
